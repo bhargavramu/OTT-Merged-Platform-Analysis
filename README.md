@@ -10,12 +10,7 @@ The goal is to combine LioCinema’s expansive subscriber base with Jotstar’s 
 As part of the merger preparation, the management team wants to analyze performance and user behavior data for both platforms from January to November 2024.
 The aim is to gain insights into platform performance, content consumption, subscriber growth, inactivity behavior, and upgrade/downgrade trends — ultimately helping position Lio-Jotstar as India’s top OTT platform.
 
-📊 Dashboard Preview
-
-🛠️ Tech Stack
-SQL
-
-Power BI
+🛠️ Tech Stack : Power BI
 
 📈 Questions Answered / KPIs
 Total Users & Growth Trends
